@@ -1,0 +1,23 @@
+{
+    "name": "ankit04/hmac-sha1",
+    "description": "This is Larvel package that gives you the accessibility and reliability to make things hashed using HMAC-SHA1 algorithms",
+    "type": "library",
+    "autoload": {
+      "psr-4": {
+        "Ankit04\\HMAC_SHA\\": "src/"
+      }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ankit Kumar",
+            "email": "ankitkumar103466@gmail.com",
+            "homepage": "https://akintellitech.shopinfinex.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+  }
+  
